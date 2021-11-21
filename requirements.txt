@@ -1,0 +1,5 @@
+pymongo
+Scrapy
+lxml
+cemotion
+pandas
