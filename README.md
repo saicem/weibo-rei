@@ -2,12 +2,14 @@
 
 ## 结构
 
+```
 ├───analyze
 │   ├───BOM             将data中的数据以 utf8 with BOM 转码 以便用excel打开
 │   ├───data            分析中用到的数据项
 │   └───statistic       统计部分
 ├───docs                文档
 └───weibospider         爬虫
+```
 
 ## analyze
 
